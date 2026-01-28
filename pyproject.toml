@@ -1,0 +1,24 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "taskerslabgen"
+version = "0.1.0"
+description = "Tasker I/II slab generation utilities for ASE."
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+  "ase",
+  "numpy",
+  "matplotlib",
+]
+
+[project.scripts]
+taskerslabgen-genslab = "taskerslabgen.genslab:main"
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+
+[tool.setuptools.packages.find]
+where = ["src"]
